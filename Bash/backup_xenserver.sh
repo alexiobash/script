@@ -1,6 +1,6 @@
 #!/bin/bash
 # < me (at) alexiobash (dot) com >
-# https://www.alexiobash.com
+# http://www.alexiobash.com
 #
 # Backup running Virtual Machine in XenServer + METADATA
 #
